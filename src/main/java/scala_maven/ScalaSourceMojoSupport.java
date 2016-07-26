@@ -22,7 +22,7 @@ abstract public class ScalaSourceMojoSupport extends ScalaMojoSupport {
     protected boolean sendJavaToScalac = true;
 
     /**
-     * Enables/Disables adding compiled classes from output folder to classpath.
+     * Enables/Disables adding compiled  classes from output folder to classpath.
      * Enable if you have dependencies between Scala and Java code but have to disable sendJavaToScala.
      * Disable if you see exceptions like: XXX is already defined as package XXX ... object XXX.
      *
