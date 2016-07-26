@@ -1,3 +1,7 @@
+THIS IS A TEMPORARY FORK FROM https://github.com/davidB/scala-maven-plugin
+
+I CHANGED THE GROUP-ID OF THE PLUGIN TO AVOID CONFUSION!
+
 <html>
 <a href='http://www.pledgie.com/campaigns/4750'><img alt='Click here to lend your support to: scala-maven-plugin and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/4750.png?skin_name=chrome' border='0' /></a>
 </html>
